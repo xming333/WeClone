@@ -4,9 +4,9 @@
 
 <div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/xming521/WeClone?style=for-the-badge&logo=github&label=Stars&logoColor=white&color=ffda65)](https://github.com/xming521/WeClone/stargazers)
 [![GitHub release](https://img.shields.io/github/v/release/xming521/WeClone?style=for-the-badge&logo=github&label=Release&logoColor=white&color=06d094)](https://github.com/xming521/WeClone/releases)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+JEdak4m0XEQ3NGNl)
+[![GitHub stars](https://img.shields.io/github/stars/xming521/WeClone?style=for-the-badge&logo=github&label=Stars&logoColor=white&color=ffda65)](https://github.com/xming521/WeClone/stargazers)
 [![Twitter](https://img.shields.io/badge/Twitter-@weclone567-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/weclone567)
 [![小红书](https://img.shields.io/badge/WeClone-FE2C55?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/628109730000000021029de4)
 <a href="https://qm.qq.com/cgi-bin/qm/qr?k=wNdgbOVT6oFOJ2wlMLsolUXErW9ESLpk&jump_from=webapi&authKey=z/reOp6YLyvR4Tl2k2nYMsLoMC3w9/99ucgKMX0oRGlxDV/WbYnvq2QxODoIkfxn" target="_blank" style="text-decoration: none;">
@@ -34,20 +34,6 @@
 - 🛡️ Privacy information filtering with localized fine-tuning and deployment for secure and controllable data
 
 
----
-
-### WeClone × Infistar.cc 无限星河｜全模型 API · 为 AI 数字分身持续注入智能
-<a href="https://www.infistar.cc/register?aff=RYD228HX&ref_source=link">
-  <img width="700"  alt="Infistar.cc 无限星河" src="https://github.com/user-attachments/assets/960e62bc-646e-4976-9a13-f3756c629c72" />
-</a> <br> 
-
-感谢 Infistar.cc 无限星河 赞助本项目！<br>
-⚡ 稳定高效的模型服务：价格低至官方渠道 1 折，模型倍率公开透明，多节点冗余保障，降低限流、429 与服务中断的影响；<br>
-🧠 主流模型一站式接入：一个 API Key 即可调用 Claude、ChatGPT、Gemini、Kimi、GLM、DeepSeek 等模型；<br>
-👤 助力数字分身生态扩展：适用于对话效果测试、人格提示词优化、内容生成及机器人能力扩展，为 WeClone 数字分身提供更多模型选择；<br>
-🎁 WeClone 用户专属福利：通过 [专属推广链接](https://www.infistar.cc/register?aff=RYD228HX&ref_source=link) 注册即可领取 5 美元等值测试额度 / 首充专属优惠，快速体验多模型 API 服务！
-
----
 
 ## 📋Features & Notes
 
